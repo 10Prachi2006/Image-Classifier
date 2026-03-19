@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e4be553-46ce-4785-879c-944fc5128e5c" /># Image Classifier
+<img width="1366" height="768" alt="Screenshot (1462)" src="https://github.com/user-attachments/assets/90c771e6-ef0d-4491-8f58-e4a98fd43e49" />
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19%2B-orange.svg)
