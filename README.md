@@ -1,4 +1,4 @@
-# Image Classifier
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e4be553-46ce-4785-879c-944fc5128e5c" /># Image Classifier
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19%2B-orange.svg)
@@ -6,29 +6,11 @@
 
 A powerful, beginner-friendly Streamlit-based image classification web application using TensorFlow's MobileNetV2 pre-trained deep learning model for real-time object recognition. Classify up to 1000 different object categories with confidence scores in just seconds.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage Guide](#usage-guide)
-- [How It Works](#how-it-works)
-- [Model Information](#model-information)
-- [Configuration](#configuration)
-- [Performance Benchmarks](#performance-benchmarks)
-- [API Reference](#api-reference)
-- [Troubleshooting](#troubleshooting)
-- [Known Limitations](#known-limitations)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
-Image Classifier is a web-based application that leverages the power of deep learning to identify objects in images. Built with Streamlit and TensorFlow, it provides an intuitive interface for users without requiring technical expertise. The application uses the MobileNetV2 architecture, which is optimized for both accuracy and speed, making it suitable for deployment on various hardware platforms.
+Image Classifier is a web-based application that leverages the power of deep learning to identify objects in images. 
+Built with Streamlit and TensorFlow, it provides an intuitive interface for users without requiring technical expertise. 
+The application uses the MobileNetV2 architecture, which is optimized for both accuracy and speed, making it suitable for deployment on various hardware platforms.
 
 **Key Benefits:**
 - 🎯 93% top-1 accuracy on ImageNet validation set
@@ -159,6 +141,12 @@ If it doesn't open automatically, navigate to the URL manually.
 3. **View Results**: The app processes the image and displays top-3 predictions with confidence scores
 4. **Interpretation**: Higher confidence scores indicate stronger model certainty
 
+   ![Uploading Screenshot (1462).png…]()
+   <img width="1366" height="768" alt="Screenshot (1463)" src="https://github.com/user-attachments/assets/add84304-9437-4447-a452-3c2b89ec4a5d" />
+
+
+
+
 ### Supported Image Formats
 
 - ✅ JPEG (.jpg, .jpeg)
@@ -207,14 +195,6 @@ Post-processing
     ↓
 User Display
 ```
-
-### Technical Details
-
-1. **Image Resizing**: Input images are resized to 224×224 pixels (standard for MobileNetV2)
-2. **Normalization**: Pixel values are normalized using ImageNet statistics (mean subtraction and std division)
-3. **Batch Processing**: Single images are expanded to a batch dimension for model input
-4. **Inference**: Forward pass through MobileNetV2 produces class probabilities
-5. **Decoding**: Raw predictions are decoded to human-readable class labels from ImageNet
 
 ## Model Information
 
@@ -379,24 +359,7 @@ predictions = classify_img(model, image)
 7. **Lighting Sensitivity**: Performance varies with different lighting conditions
 8. **Offensive Content**: Model may struggle with abstract, surreal, or artistic interpretations
 
-## Development
 
-### Setting Up Development Environment
-
-1. Install development dependencies:
-```bash
-pip install -r requirements-dev.txt
-```
-
-2. Run linting checks:
-```bash
-flake8 main.py
-```
-
-3. Format code:
-```bash
-black main.py
-```
 
 ### Project Structure
 
@@ -485,23 +448,7 @@ This project stands on the shoulders of giants:
 - MobileNetV2: Inverted Residuals and Linear Bottlenecks ([arXiv:1801.04381](https://arxiv.org/abs/1801.04381))
 - ImageNet: A Large-Scale Visual Database for Research ([Paper](http://www.image-net.org/papers/ImageNet_2010.pdf))
 
-## FAQ
-
-**Q: Can I use this for commercial purposes?**
-A: Yes! The MIT license allows commercial use.
-
-**Q: Can I train the model on custom data?**
-A: Yes, but it requires code modifications. Fine-tuning is possible but not implemented in this version.
-
-**Q: What's the maximum image size supported?**
-A: Images are automatically resized to 224×224, so no hard limit exists.
-
-**Q: Does this work offline?**
-A: After the first run (when the model downloads), yes! The model is cached locally.
-
-**Q: Can I deploy this to production?**
-A: Yes, this can be deployed using Streamlit Cloud, Docker, or other platforms.
-
 ---
 
-**Last Updated**: March 2026 | **Version**: 0.1.0 | **Status**: Active Development
+### Author
+## Prachi Yadav.
