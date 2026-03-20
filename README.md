@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot (1462)" src="https://github.com/user-attachments/assets/90c771e6-ef0d-4491-8f58-e4a98fd43e49" />
+## AI Image Classifier
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19%2B-orange.svg)
@@ -7,6 +7,7 @@
 A powerful, beginner-friendly Streamlit-based image classification web application using TensorFlow's MobileNetV2 pre-trained deep learning model for real-time object recognition. Classify up to 1000 different object categories with confidence scores in just seconds.
 
 ## Overview
+<img width="1366" height="768" alt="Screenshot (1462)" src="https://github.com/user-attachments/assets/90c771e6-ef0d-4491-8f58-e4a98fd43e49" />
 
 Image Classifier is a web-based application that leverages the power of deep learning to identify objects in images. 
 Built with Streamlit and TensorFlow, it provides an intuitive interface for users without requiring technical expertise. 
