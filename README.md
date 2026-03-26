@@ -448,6 +448,42 @@ This project stands on the shoulders of giants:
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications ([arXiv:1704.04861](https://arxiv.org/abs/1704.04861))
 - MobileNetV2: Inverted Residuals and Linear Bottlenecks ([arXiv:1801.04381](https://arxiv.org/abs/1801.04381))
 - ImageNet: A Large-Scale Visual Database for Research ([Paper](http://www.image-net.org/papers/ImageNet_2010.pdf))
+---
+
+## 📧 Contact & Connect
+
+For questions or feedback, feel free to reach out or open an issue.
+
+**Developer:** Prachi Yadav.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-yadav-60466b343)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10Prachi2006)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starletprachi@gmail.com)
+
+---
+
+
+<div align="center">
+
+---
+
+### 🌟 Show your support
+
+If you found this project helpful, please consider giving it a **Star**! It helps others discover the work and keeps me motivated to improve it.
+
+**Star this repo: https://github.com/10Prachi2006/RAG-Based-Agent.git**
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to collaborating on open-source projects or discussing new opportunities.
+
+**LinkedIn: www.linkedin.com/in/prachi-yadav-60466b343** 
+
+**Developed with ❤️ by Prachi Yadav**
+
+</div>
 
 ---
 
